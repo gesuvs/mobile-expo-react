@@ -1,0 +1,12 @@
+{
+  "name": "mobile-expo-react",
+  "displayName": "mobile-expo-react",
+  "expo": {
+    "name": "mobile-expo-react",
+    "slug": "mobile-expo-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
